@@ -1,0 +1,6 @@
+.env
+faturas_dois/
+faturas_um/
+.venv/
+dados_extraidos/
+teste.ipynb
