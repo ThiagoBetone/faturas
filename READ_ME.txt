@@ -61,7 +61,7 @@ Fatura_banco.pdf
 
 ---
 
-## 📤 Saída
+##  Saída
 
 ```json
 [
@@ -82,7 +82,7 @@ Fatura_banco.pdf
 
 ---
 
-## ▶️ Como executar
+##  Como executar
 
 Clone o projeto
 
